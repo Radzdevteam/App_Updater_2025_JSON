@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 1,
-  "versionName": "1.0", 
-  "downloadUrl": "https://github.com/Radzdevteam/AnimeV3/releases/download/v1.1.0/AnimeV3-v1.1.0.apk",
+  "versionCode": 2,
+  "versionName": "1.1", 
+  "downloadUrl": "https://www.mediafire.com/file/px92r3n5osbx8iy/AniFlix_Pro_v1.1.apk/file",
   "releaseNotes": "🎉 What's New:\n• Netflix-style animations\n• Better search\n• Bug fixes",
   "forceUpdate": true,
   "minSupportedVersion": 1
