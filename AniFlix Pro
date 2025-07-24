@@ -1,8 +1,8 @@
 {
   "versionCode": 3,
-  "versionName": "1.2",
-  "downloadUrl": "https://www.mediafire.com/file/jrvzusc72lxz2o5/AniFlix_Pro_v1.2.apk/file",
-  "releaseNotes": "🎉 What's New:\n• Anime Player fixed",
+  "versionName": "1.3",
+  "downloadUrl": "https://www.mediafire.com/file/dwilvzzaukof6ib/AniFlix_Pro_v1.3.apk/file",
+  "releaseNotes": "🎉 What's New:\n• Anime Player fixed\n• Added automatic server switch\n• My List bug fixed",
   "forceUpdate": true,
   "minSupportedVersion": 1
 }
